@@ -1,0 +1,4 @@
+{"_id":{"$oid":"62d8eb7b3b97a2355446d7bd"},"auth_str":"789ghi","event_id":{"$oid":"62d8dcff3b97a2355446d7b8"}}
+{"_id":{"$oid":"62d8ec213b97a2355446d7c0"},"auth_str":"456def","event_id":{"$oid":"62d8dcff3b97a2355446d7ba"}}
+{"_id":{"$oid":"62d8ec2a3b97a2355446d7c1"},"auth_str":"456def","event_id":{"$oid":"62d8dcff3b97a2355446d7b9"}}
+{"_id":{"$oid":"62d8ec3a3b97a2355446d7c2"},"auth_str":"123abc","event_id":{"$oid":"62d8dcff3b97a2355446d7bb"}}
