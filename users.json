@@ -1,3 +1,7 @@
-{"_id":{"$oid":"62d8d4283b97a2355446d7b5"},"email":"abc@gmail.com","status":"user","auth_str":"123abc"}
-{"_id":{"$oid":"62d8d4583b97a2355446d7b6"},"email":"def@gmail.com","status":"admin","auth_str":"456def"}
-{"_id":{"$oid":"62d8d4723b97a2355446d7b7"},"email":"ghi@gmail.com","status":"user","auth_str":"789ghi"}
+[
+    {
+        "username": "user001",
+        "email": "rurec@gmail.com",
+        "status": "user"
+    }
+]
