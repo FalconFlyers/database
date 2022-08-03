@@ -1,5 +1,82 @@
-{"_id":{"$oid":"62d8dcff3b97a2355446d7b8"},"type":"yoga","name":"suryanamaskar","timestamp":{"$date":"2022-07-22T06:00:00Z"},"link":"link1/plateform","capacity":10.0,"instructor":"pqr","desc":"session on suryanamaskar"}
-{"_id":{"$oid":"62d8ddca3b97a2355446d7b9"},"type":"meditation","name":"enhanced focus through meditation","timestamp":{"$date":"2022-08-01T16:00:00Z"},"link":"link2/plateform","capacity":20.0,"instructor":"sty","desc":"session on enhanced focus through meditation"}
-{"_id":{"$oid":"62d8de4b3b97a2355446d7ba"},"type":"mindfulness","name":"imposter syndrome and dealing with it","timestamp":{"$date":"2022-08-10T16:30:00Z"},"link":"link3/plateform","capacity":15.0,"instructor":"fzs","desc":"session on imposter syndrome and dealing with it"}
-{"_id":{"$oid":"62d8dec73b97a2355446d7bb"},"type":"fitness","name":"work on youe core fitness","timestamp":{"$date":"2022-08-15T15:00:00Z"},"link":"link4/plateform","capacity":12.0,"instructor":"wer","desc":"session on fitness"}
-{"_id":{"$oid":"62d8dfa23b97a2355446d7bc"},"type":"therapy","name":"speak your mind","timestamp":{"$date":"2022-09-16T10:30:00Z"},"link":"link5/plateform","capacity":1.0,"instructor":"rgn","desc":"session on therapy"}
+[
+    {
+        "type": "yoga",
+        "name": "suryanamaskar",
+        "time": "2022-07-30T06:00:00",
+        "zLink": "link20/plateform",
+        "capacity": 20,
+        "instructor": "sddiub",
+        "desc": "session on suryanamaskar",
+        "id": 3
+    },
+    {
+        "type": "fitness",
+        "name": "zumba",
+        "time": "2022-07-29T06:00:00",
+        "zLink": "link10/plateform",
+        "capacity": 50,
+        "instructor": "eufieug",
+        "desc": "zumba session",
+        "id": 4
+    },
+    {
+        "type": "fitness",
+        "name": "zumba",
+        "time": "2022-08-13T06:00:00",
+        "zLink": "link10/plateform",
+        "capacity": 50,
+        "instructor": "eufieug",
+        "desc": "zumba session",
+        "id": 5
+    },
+    {
+        "type": "mindfulness",
+        "name": "practising gratitude",
+        "time": "2022-08-08T06:00:00",
+        "zLink": "link11/platform",
+        "capacity": 10,
+        "instructor": "eufieug",
+        "desc": "mindfulness session",
+        "id": 6
+    },
+    {
+        "type": "therapy",
+        "name": "cognitive defusion",
+        "time": "2022-08-09T06:00:00",
+        "zLink": "link12/platform",
+        "capacity": 5,
+        "instructor": "jen",
+        "desc": "therapy session",
+        "id": 7
+    },
+    {
+        "type": "yoga",
+        "name": "Hatha",
+        "time": "2022-08-07T06:00:00",
+        "zLink": "link13/platform",
+        "capacity": 25,
+        "instructor": "umesh",
+        "desc": "yoga session",
+        "id": 8
+    },
+    {
+        "type": "fitness",
+        "name": "cardio",
+        "time": "2022-08-05T06:00:00",
+        "zLink": "link14/platform",
+        "capacity": 40,
+        "instructor": "timmy",
+        "desc": "fitness",
+        "id": 9
+    },
+    {
+        "type": "fitness",
+        "name": "cardio2",
+        "time": "2022-08-09T06:00:00",
+        "zLink": "link14/platform",
+        "capacity": 40,
+        "instructor": "timmy",
+        "desc": "fitness session 2",
+        "id": 10
+    }
+]
